@@ -1,3 +1,5 @@
+// 5) Escreva um programa que inverta os caracteres de um string.
+
 function reverseString(word) {
     let characterList = word.split("");
     let reverseCharacterList = [];
